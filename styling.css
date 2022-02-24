@@ -1,0 +1,33 @@
+div {
+    margin: auto;
+    padding: 10px;
+}
+
+.search {
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    color: #7dc8c7;
+    border: 2px solid #7dc8c8;
+    font-weight: 900;
+    background-color: white;
+}
+
+.plus {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    background-color: #00d1b2;
+    color: white;
+    border: none;
+}
+
+.account {
+    color: black;
+    height: 40px;
+    width: 150px;
+    background-color: #2b78e4;
+    color: white;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+}
